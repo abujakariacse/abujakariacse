@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abu Jakaria
 #### Web Developer
-![Web Developer](<img scr="https://twitter.com/abujakariacse/header_photo" alt="abujakariacse">)
+
 
 Abu Jakaria is a web developer, software engineer. He was born on 20th August 2002. He is a student of Computer Science & Engineering at Dhaka Polytechnic Institute.
 
