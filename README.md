@@ -2,7 +2,7 @@
 <h1>Abu Jakaria</h1>
 <h3>Web Developer</h3>
 <br/>
-<p align="left"> <img src="https://scontent-frt3-1.xx.fbcdn.net/v/t39.30808-6/272666876_3150488825278475_8780942205726004574_n.png?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=mpMHpgCnIHcAX9_SkC2&_nc_ht=scontent-frt3-1.xx&oh=00_AT9MuUvg_F66RXEMT6PqWRFfiFFchpv5toxaSyR_kYy8DA&oe=6201C914" alt="abujakariacse" /> </p>
+<p align="left"> <img src="https://pbs.twimg.com/profile_banners/1424068274342424580/1643196372/1500x500" alt="abujakariacse" /> </p>
 
 <b>Abu Jakaria</b> is a web developer/software engineer. He was born on 20th August 2002. He is a student of Computer Science & Engineering at Dhaka Polytechnic Institute.
 
