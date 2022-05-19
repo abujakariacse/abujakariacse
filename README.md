@@ -6,7 +6,7 @@
 
 <b>Abu Jakaria</b> is a web developer/software engineer. He was born on 20th August 2002. He is a student of Computer Science & Engineering at Dhaka Polytechnic Institute.
 
-Skills: PYTHON/ JS / HTML / CSS
+Skills: HTML/CSS/JAVASCRIPT/REACT.JS/NODE.JS/MONGODB
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning Data Structer & Algorithm 
