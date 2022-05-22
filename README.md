@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm 
 <h1>Abu Jakaria</h1>
-<h3>Web Developer</h3>
-![Profile views](https://gpvc.arturio.dev/abujakariacse)  
+<h3>Web Developer</h3>  
 <br/>
+![Profile views](https://gpvc.arturio.dev/abujakariacse)
 <p align="left"> <img src="https://pbs.twimg.com/profile_banners/1424068274342424580/1643196372/1500x500" alt="abujakariacse" /> </p>
 
 <b>Abu Jakaria</b> is a web developer/software engineer. He was born on 20th August 2002. He is a student of Computer Science & Engineering at Dhaka Polytechnic Institute.
