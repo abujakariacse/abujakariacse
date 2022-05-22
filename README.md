@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm 
+![Profile views](https://gpvc.arturio.dev/abujakariacse)  
 <h1>Abu Jakaria</h1>
 <h3>Web Developer</h3>
 <br/>
@@ -28,5 +29,3 @@ Skills: HTML, CSS, JAVASCRIPT, REACT.JS, NODE.JS, MONGODB
 ![GitHub metrics](https://metrics.lecoq.io/abujakariacse)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abujakariacse)  
-
-![Profile views](https://gpvc.arturio.dev/abujakariacse)  
