@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/abujakariacse)  
+
 ### Hi there 👋, I'm 
 <h1>Abu Jakaria</h1>
 <h3>Web Developer</h3>  
@@ -18,14 +18,12 @@ Skills: HTML, CSS, JAVASCRIPT, REACT.JS, NODE.JS, MONGODB
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abujakariacse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abujakariacse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abujakariacse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abujakariacse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/abujakariacse)  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abujakariacse)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abujakariacse)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abujakariacse&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abujakariacse)  
 
-![GitHub metrics](https://metrics.lecoq.io/abujakariacse)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abujakariacse)  
